@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  cout<<"Hi";
 }
 
 Initial Security()
 {
- //Sample Code
+  cout<<"Bye";
 }
 
 
